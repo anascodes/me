@@ -90,7 +90,8 @@ hr {
 }
 
 .contactMeMessage {
-  margin-bottom: 50px;
+  margin: 50px auto;
+  width: 40%;
 }
 
 .btn {
